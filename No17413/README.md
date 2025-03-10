@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f9fa9a8-5a79-48c5-94d8-00e79191e0b6)# No.17413 단어 뒤집기 2
+# No.17413 단어 뒤집기 2
 
 ## 문제
 문자열 S가 주어졌을 때, 이 문자열에서 단어만 뒤집으려고 한다.<br>
