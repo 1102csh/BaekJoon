@@ -36,7 +36,7 @@ bombonisuuladici
 ![image](https://github.com/user-attachments/assets/91020047-2566-4c19-bed3-fe41cb6e0e25)<br>
 엑셀로 실제로 입력되는 값과 출력되는 값이 어떤 행렬로 구성되어 있을지 그려보면서 풀었다.<br>
 조건에 맞는 R과 C를 구한 뒤 알맞게 출력하면 되는 문제였다.<br>
-제출 후 다른사람들의 코드를 확인해봤는데 대부분 R과 C를 구하는 코드가 다음과 같았다.
+제출 후 다른사람들의 코드를 확인해봤는데 대부분 R과 C를 구하는 코드가 다음과 같았다.<br>
 ![image](https://github.com/user-attachments/assets/270ad475-9da0-4ea4-bb41-68e5ed88e5ec)<br>
 모든 상황을 다 체크해보며 이중 반복문 구조를 띄고 있는 내 코드보다 훨씬 효율적인 코드였다.<br>
 효율적인 코드를 구성하도록 더욱 노력해야겠다.
